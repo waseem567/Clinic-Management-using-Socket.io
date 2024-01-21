@@ -1,0 +1,41 @@
+{
+  "name": "authapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "node": "nodemon server.js"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.4",
+    "antd": "^5.12.8",
+    "autoprefixer": "10.4.14",
+    "bcryptjs": "^2.4.3",
+    "bufferutil": "^4.0.8",
+    "cors": "^2.8.5",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "flowbite": "^2.2.1",
+    "flowbite-react": "^0.7.2",
+    "framer-motion": "^10.17.12",
+    "moment": "^2.30.1",
+    "mongoose": "^7.4.1",
+    "next": "13.4.12",
+    "next-auth": "^4.22.3",
+    "nodemon": "^3.0.2",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.12.0",
+    "socket.io": "^4.7.3",
+    "socket.io-client": "^4.7.3",
+    "tailwindcss": "3.3.3",
+    "tw-elements": "^1.1.0",
+    "utf-8-validate": "^5.0.10"
+  }
+}
